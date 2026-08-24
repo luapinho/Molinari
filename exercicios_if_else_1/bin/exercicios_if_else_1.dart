@@ -116,7 +116,7 @@ void ex8() {
   int v2 = -7;
   int v3 = -8;
   int v4 = -2;
-  int v5 = 8;
+  int v5 = -8;
   int contador = 0;
 
   if (v1 < 0) {
@@ -134,8 +134,7 @@ void ex8() {
   if (v5 < 0) {
     contador += 1;
   }
-
-  else{
+  
     print("$contador");
-  }
+  
 }
