@@ -1,5 +1,5 @@
 void main() {
-  exemplo5();
+  exemplo6();
 }
 
 void exemplo1() {
@@ -50,3 +50,4 @@ void exemplo5() {
     n2 = proximo;
   }
 }
+
